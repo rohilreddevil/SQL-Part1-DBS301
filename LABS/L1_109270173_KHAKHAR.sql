@@ -26,8 +26,8 @@
 --Solution:
 --      The Command that needs recitification is :
 
-        /*SELECT last_name “LName”, job_id “Job Title”, 
-          Hire Date “Job Start”
+        /*SELECT last_name â€œLNameâ€, job_id â€œJob Titleâ€, 
+          Hire Date â€œJob Startâ€
           FROM employees; */
           -- this statement generates an error
         
